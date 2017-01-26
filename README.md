@@ -1,5 +1,5 @@
 # MxOnline
-Mxonline(在线教育学习网站)
+Mxonline(在线教育学习网站)a
 本项目技术语言 Python2.7，所用框架django1.9 xadmin0.6.1。
 
 本项目是做的在线教育系统，基于Django，后台用的是xadmin。能够实现，登陆、注册、找回密码。添加教育机构，教育机构中的讲师，
